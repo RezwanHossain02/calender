@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	padding:0;
+
+	
+}
+
+h1{
+	background-color: indianred;
+	border-radius: 10px;
+	color:rgb(87, 20, 87);
+	font-size: 70px;
+	margin-bottom: 0;
+	font-style:italic;
+	padding: 7px;
+	display: inline-block;
+}
+
+table{
+	background-color: wheat;
+	font-size:30px;
+	height: 350px;
+	
+	
+}
+
+tr{
+	background-color: thistle;
+}
+
